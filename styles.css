@@ -1,0 +1,69 @@
+.navbar{
+    background-color: grey;
+    width: 100%;
+    padding:20px;
+}
+li{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: inline;
+    
+}
+.navbar li a{
+    text-decoration: none;
+    padding: 30px;
+    color: darkblue;
+}
+.about{
+    padding: 10px;
+    background-color: white;
+}
+.about input{
+    width: 100%;
+    padding: 10px;
+}
+.about input:hover{
+    background-color: lightblue;
+}
+.work{
+    padding: 10px;
+    background-color: white;
+}
+.work input{
+    width: 100%;
+    padding: 10px;
+}
+.work input:hover{
+    background-color: lightblue;
+}
+.resume{
+    padding: 10px;
+    background-color: white;
+}
+.resume input{
+    width: 100%;
+    padding: 10px;
+}
+.resume input:hover{
+    background-color: lightblue;
+}
+.contact{
+    padding: 10px;
+    background-color: white;
+}
+.contact input{
+    width: 100%;
+    padding: 10px;
+}
+.contact input:hover{
+    background-color: lightblue;
+}
+#btn{
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    width: 100%;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: blue;
+}
